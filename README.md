@@ -1,3 +1,3 @@
-# hello-world
-my first repository
-someday I start to use it
+# U-Net Study for Denoising AutoEncoder
+
+This is the repo for my uploaded study material about different Auto-Encoder Architecture
