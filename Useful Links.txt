@@ -1,0 +1,3 @@
+https://zhuanlan.zhihu.com/p/47125912
+https://www.kaggle.com/milan400/fer2013-denoising-using-autoencoder-and-unet
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
